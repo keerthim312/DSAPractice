@@ -32,10 +32,12 @@ def nTriangle(n: int) -> None:
 n = 4
 
 #### Sample Output:
+```
 1
 1 2
 1 2 3
 1 2 3 4
+```
 
 ### Complexity Analysis:
 **Time Complexity:** O(n²)
