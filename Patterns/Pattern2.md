@@ -29,10 +29,12 @@ def nForest(n: int) -> None:
 n = 4
 
 ### Sample Output:
+```
 *
 * * 
 * * *
 * * * *
+```
 
 ---
 
