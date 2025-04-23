@@ -55,6 +55,7 @@ n = 3
 **Time Complexity:** O(n²)
 The outer loop runs n times for the upper half and n-1 times for the lower half.
 Each loop iteration involves string concatenation (spaces + stars).
+
 **Space Complexity:** O(1)
 No additional space is used beyond loop counters and string operations.
 
