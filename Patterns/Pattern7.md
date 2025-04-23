@@ -58,6 +58,7 @@ n = 3
 **Time Complexity:** O(n²)
 The outer loop runs n times.
 Inner loops (spaces + stars) contribute to ≈ 2n operations per row in the worst case.
+
 **Space Complexity:** O(1)
 Constant space is used, not counting the output.
 
