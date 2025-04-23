@@ -58,8 +58,10 @@ n = 3
 **Time Complexity:** O(n²)
 Outer loop runs n times.
 Inner loops print spaces and stars with total operations ~ 2n per row.
+
 **Space Complexity:** O(1)
 No extra space used beyond loop counters.
+
 ---
 
 This inverted centered triangle is a great practice pattern for learning how to:
