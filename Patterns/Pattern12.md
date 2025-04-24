@@ -12,7 +12,7 @@ This forms a **mirrored number pyramid** with a "crown" shape.
 
 ---
 
-## 💡 Approach
+## Approach
 
 To create the crown pattern:
 1. Loop through each row i from 1 to n.
