@@ -68,8 +68,6 @@ n = 5
 
 #### Sample Output:
 True
-#### Explanation:
-Divisors of 6 are 1, 2, 3, 6
 
 ---
 
