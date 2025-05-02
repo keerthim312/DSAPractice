@@ -61,7 +61,7 @@ Raj
 
 
 ### Recursive Tree:
-
+```
 print_name(1, 3)
     → Raj
     → print_name(2, 3)
@@ -70,6 +70,7 @@ print_name(1, 3)
             → Raj
             → print_name(4, 3)
                 → return
+```
 
 ---
 
