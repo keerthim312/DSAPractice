@@ -53,9 +53,11 @@ print_name(1, n)
 n = 3
 
 #### Sample Output:
+```
 Raj
 Raj 
 Raj
+```
 
 ---
 
