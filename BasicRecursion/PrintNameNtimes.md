@@ -53,9 +53,11 @@ print_name(1, n)
 n = 3
 
 #### Sample Output:
+```
 Raj
 Raj 
 Raj
+```
 
 ---
 
@@ -77,6 +79,7 @@ print_name(1, 3)
 ### Complexity Analysis:
 **Time Complexity:** O(n)
 We make n recursive calls, and each call takes constant time (printing the name once).
+
 **Space Complexity:** O(n)
 The recursion stack holds n frames, and each frame stores the state of a function call.
 

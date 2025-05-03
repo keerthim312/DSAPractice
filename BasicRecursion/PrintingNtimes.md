@@ -54,15 +54,18 @@ print_n_times(1, n)
 n = 3
 
 #### Sample Output:
+```
 Hello
 Hello
 Hello
+```
 
 ---
 
 ### Complexity Analysis:
 **Time Complexity:** O(n)
 We make n recursive calls.
+
 **Space Complexity:** O(n)
 Each recursive call takes up stack space.
 
