@@ -35,7 +35,7 @@ def NnumbersSum(self, N):
             return 1
         # Recursive case
         else:
-            return N + self.NnumbersSum(N - 1)s
+            return N + self.NnumbersSum(N - 1)
 
 ```
 ---
