@@ -56,9 +56,11 @@ n = 5
 
 ### Complexity Analysis:
 **Time Complexity:** O(N)
+
 One recursive call per value from n down to 0.
 
 **Space Complexity:** O(N)
+
 Each recursive call adds one frame to the call stack until the base case is reached.
 
 ---
