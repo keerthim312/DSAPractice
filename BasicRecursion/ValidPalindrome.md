@@ -86,9 +86,13 @@ class Solution:
 
 ### Complexity Analysis:
 **Time Complexity:** O(N)
-O(n), where n is the length of the string s. Both solutions traverse the string at most once.
+
+where n is the length of the string s. Both solutions traverse the string at most once.
+
 **Space Complexity:** 
+
 Solution 1: O(1), as it uses only two pointers.
+
 Solution 2: O(n), due to the additional space used for the cleaned string.
 
 ---
