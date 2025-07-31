@@ -117,10 +117,9 @@ print("Sorted array:", arr)
 
 ## 🔚 Summary Table:
 
-| Approach       | Time Complexity | Space Complexity | Notes                                  |
-|----------------|------------------|-------------------|----------------------------------------|
-| Brute Force    | O(n log n)       | O(1)              | Uses built-in sort                     |
-| Insertion Sort | O(n²)            | O(1)              | Efficient for small or nearly sorted arrays |
+| Approach    | Time Complexity | Space Complexity | Notes                                                 |
+|-------------|------------------|-------------------|-------------------------------------------------------|
+| Merge Sort  | O(n log n)       | O(n)              | Divide and Conquer; stable sort; not in-place         |
 
 ---
 
